@@ -24,13 +24,14 @@ Source Code
 There is some source code located in `source/`, but the majority of the code used
 in the course comes from other resources including:
 
-.. _Al Sweigart's Invent Your Own Computer Games with Python: http://inventwithpython.com
+`Al Sweigart's Invent Your Own Computer Games with Python <http://inventwithpython.com>`_
 
-.. _Al Sweigart's Making Games with Python & Pygame: http://inventwithpython.com/pygame/
+`Al Sweigart's Making Games with Python & Pygame <http://inventwithpython.com/pygame>`_
 
-.. _Katie Cunningham's Raspberry Rogue: http://github.com/kcunning/Raspberry-Rogue
+`Katie Cunningham's Raspberry Rogue <http://github.com/kcunning/Raspberry-Rogue>`_
 
-.. _Minecraft Pi Edition Python Scripts: https://github.cm/brooksc/mcpipy
+`Minecraft Pi Edition Python Scripts <https://github.cm/brooksc/mcpipy>`_
+
 
 
 License
