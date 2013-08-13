@@ -5,3 +5,4 @@ Session.vim
 *~
 *py[cdo]
 *.DS_Store
+libpeerconnection.log
